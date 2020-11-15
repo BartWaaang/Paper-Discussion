@@ -2,7 +2,7 @@
 
 We are graduate students(masters & ph.ds)from the School of Cyber Science and Engineering, Xi'an Jiaotong University, Shaanxi, China.
 
-![](Paper-Discussion.io\photo\u=1142259177,1217762836&fm=26&gp=0.jpg)
+![](/photo/u=1142259177,1217762836&fm=26&gp=0.jpg)
 
 
 
@@ -32,7 +32,4 @@ This Website conclude all the papers we discussed per week and the presentation 
 
 ## FC
 
-[Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.
-
-[pdf]: E:\Study\Paper-Discussion.io\PowerPoint\MajorityisnotEnough.pdf
-
+[Economic-PoW] [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC '14.  [ppt](PowerPoint\MajorityisnotEnough.pdf) 
