@@ -10,7 +10,7 @@ Our research mainly focus on Security of IoT, Security of Artificial Intelligenc
 
 
 
-This Website conclude all the papers we discussed per week and the presentation PowerPoint.
+This Website includes all the papers we discussed per week and the presentation PowerPoint.
 
 ## Table of Listed Conferences
 
