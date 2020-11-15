@@ -2,7 +2,7 @@
 
 We are graduate students(masters & ph.ds)from the School of Cyber Science and Engineering, Xi'an Jiaotong University, Shannxi, China.
 
-![](E:\Study\Paper-Discussion.io\photo\u=1142259177,1217762836&fm=26&gp=0.jpg)
+![](Paper-Discussion.io\photo\u=1142259177,1217762836&fm=26&gp=0.jpg)
 
 
 
